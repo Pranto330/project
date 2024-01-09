@@ -1,0 +1,151 @@
+body{
+    /* font-family: 'Lato', sans-serif; */
+/* } */
+.header-title{
+    background-image: url(../photo/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1350px;
+    height: 600px;
+    margin: 0 auto;
+    display: block;
+}
+.new-year{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Lato', sans-serif;
+    padding-top: 100px;
+}
+.new-year-title{
+    color: white;
+    text-align: center;
+    font-size:4rem ;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    
+    
+    
+}
+.content{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.item{
+    color: rgb(236, 50, 50);
+    font-weight: 700;
+    font-size: 2rem;
+    letter-spacing:around ;
+}
+.item-title{
+    
+    font-family: 'Montserrat', sans-serif;
+}
+.item-title-space{
+
+}
+.title{
+    padding-top:200px ;
+    display: block;
+
+}
+.midnight{
+    background-image: url(../photo/Vectorrr.png);
+    background-repeat: no-repeat;
+    width: 1350px;
+    height: 650px;
+    margin: 0 auto;
+}
+.midnight1{
+    color: white;
+    padding-top:50px ;
+    padding-left: 50px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+}
+.midnight2{
+    color: white;
+    
+
+}
+.midnight3{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    border-color: black;
+   
+
+
+
+}
+ .midnight4{
+    padding-left: 800px;
+    width: 250px;
+    padding-bottom: 250px;
+}
+.new-park{
+    text-align: center;
+    border: solid beige;
+    height: 482px;
+    width: 1320px;
+    margin: 0 auto;
+}
+.new-park1{
+    font-size: 1rem;
+    padding-top: 20px;
+}
+span{
+    color: red;
+}
+.new-park4{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+.coming-soon{
+    width: 1300px;
+    height: 600px;
+    margin: 50px auto;
+    border: 1px solid gray;
+    display: flex;
+    background-color: aliceblue;
+}
+.coming-soon1{
+    text-align: left;
+    padding-top:200px;
+    padding-left: 10px;
+    display: flex;
+    gap: 70%;
+}
+.coming-soon2{
+    color: red;
+}
+.coming-soon4{
+    width: 150px;
+    height: 100px;
+}
+.coming-soon5{
+    
+}
+.pro{
+    color: red;
+    font-weight: 700;
+}
+.holidays{
+    text-align: center;
+}
+.best-gift{
+    text-align: center;
+}
+.subscribe{
+    background-color:rgb(255, 247, 234);
+    width: 1300px;
+    height: 550px;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+.subscribe h1{
+    
+}
+
